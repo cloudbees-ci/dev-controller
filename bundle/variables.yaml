@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci
+- admin-user: beedemo-dev-admin
+- manager-user: beedemo-dev
